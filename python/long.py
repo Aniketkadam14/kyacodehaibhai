@@ -35,3 +35,5 @@ print("machali jal ki mandi hai4")
 
 print("crazy kia re 4")
 
+print("crazy kia re 4")
+print("crazy kia re 5")
