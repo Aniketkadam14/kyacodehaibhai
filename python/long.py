@@ -25,3 +25,7 @@ print("machali jal ki rani hai2")
 print("machali jal ki rani hai3")
 print("machali jal ki rani hai4")
 
+print("machali jal ki sandi hai")
+print("machali jal ki kk hai2")
+print("machali jal ki handi hai3")
+print("machali jal ki mandi hai4")
