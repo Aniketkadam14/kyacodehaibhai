@@ -5,7 +5,7 @@ with open('example.txt', 'w') as file:
     file.write('This is a new file created using Python.')
 
 print("File has been created and text has been written.")
-
+print("sahi hai na sab")
 
 file = open("example.txt", "r")
 print(file.read())
