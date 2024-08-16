@@ -20,6 +20,7 @@ print("sallu bhai ki file ban chuki hai")
 import os
 os.remove('sallu.txt')
 
+
 print("machali jal ki rani hai")
 print("machali jal ki rani hai2")
 print("machali jal ki rani hai3")
@@ -31,3 +32,6 @@ print("machali jal ki handi hai3")
 print("machali jal ki mandi hai4")
 
 print("machali jal ki mandi hai4")
+
+print("crazy kia re 4")
+
