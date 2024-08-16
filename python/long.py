@@ -6,8 +6,8 @@ with open('example.txt', 'w') as file:
 
 print("File has been created and text has been written.")
 print("sahi hai na sab")
-print("jassaajs)
-print("sanamre)
+print("jassaajs")
+print("sanamre")
 
       
 file = open("example.txt", "r")
@@ -20,3 +20,5 @@ print("sallu bhai ki file ban chuki hai")
 import os
 os.remove('sallu.txt')
 
+print("END of the WORLDS")
+print("END of the Games")
