@@ -20,5 +20,3 @@ print("sallu bhai ki file ban chuki hai")
 import os
 os.remove('sallu.txt')
 
-print("END of the WORLDS")
-print("END of the Games")
