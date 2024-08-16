@@ -6,6 +6,7 @@ with open('example.txt', 'w') as file:
 
 print("File has been created and text has been written.")
 print("sahi hai na sab")
+print("jassaajs)
 
 file = open("example.txt", "r")
 print(file.read())
